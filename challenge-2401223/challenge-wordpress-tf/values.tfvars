@@ -1,0 +1,8 @@
+app = "bootcamp-grupo1"
+instance_class = "db.t2.micro"
+ami = "ami-0fe472d8a85bc7b0e"
+instance_type = "t2.micro"
+env = "dev"
+db_user = "wordpress_user"
+db_pass = "12345678"
+db_name = "wordpress"
